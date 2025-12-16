@@ -29,4 +29,5 @@ Este projeto consiste em um dashboard interativo de vendas criado no Microsoft E
 3. Utilize os filtros laterais para interagir com os gráficos.
 
 ---
-Desenvolvido por Herick Luis
+Desenvolvido por Herick Luis 
+direcionamento pelo Gemini Pro
